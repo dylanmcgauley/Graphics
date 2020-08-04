@@ -1,0 +1,66 @@
+﻿  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\depth_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\depth_vs.cso
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_ps.hlsl(35,5-19): warning X3206: implicit truncation of vector type
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_ps.hlsl(42,27-30): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_ps.hlsl(42,27-33): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_ps.hlsl(42,27-36): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_ps.hlsl(29,5): warning X4000: use of potentially uninitialized variable (CheckEdge)
+  
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\edgedetector_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_ps.cso
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_vs.hlsl(41,5-63): warning X3206: implicit truncation of vector type
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_vs.hlsl(50,5-72): warning X3206: implicit truncation of vector type
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_vs.hlsl(51,5-73): warning X3206: implicit truncation of vector type
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_vs.hlsl(52,5-72): warning X3206: implicit truncation of vector type
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_vs.hlsl(53,5-73): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\heightmap_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\horizontalBlur_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\horizontalBlur_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\light_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\light_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\multilight_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\multilight_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\shadow_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\shadow_vs.cso
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\spinblur_ps.hlsl(15,27-30): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\spinblur_ps.hlsl(15,27-33): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\spinblur_ps.hlsl(15,27-36): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\spinblur_ps.hlsl(16,26-29): warning X3081: comma expression used where a vector constructor may have been intended
+  
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\spinblur_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\spinblur_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\texture_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\texture_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\toon_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\toon_vs.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\verticalBlur_ps.cso
+  compilation object save succeeded; see C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Example7_PostProcessing\verticalBlur_vs.cso
+  VerticalBlurShader.cpp
+  ToonShader.cpp
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\toonshader.cpp(48): warning C4101: 'lightPtr': unreferenced local variable
+  TextureShader.cpp
+  SpinBlur.cpp
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\spinblur.cpp(37): warning C4101: 'screenSizeBufferDesc': unreferenced local variable
+  ShadowShader.cpp
+  MultiLight.cpp
+  Main.cpp
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.h(100): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.h(102): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.h(103): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LightShader.cpp
+  HorizontalBlurShader.cpp
+  HeightMap.cpp
+  EdgeDetector.cpp
+  Depth.cpp
+  App1.cpp
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.h(100): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.h(102): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.h(103): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.cpp(139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.cpp(445): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dylan\desktop\1500995_graphicsresit\source\example7_postprocessing\app1.cpp(552): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+LINK : fatal error LNK1168: cannot open C:\Users\Dylan\Desktop\1500995_GraphicsResit\source\Debug\Example7_PostProcessing.exe for writing

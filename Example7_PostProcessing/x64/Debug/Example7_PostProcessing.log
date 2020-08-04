@@ -1,0 +1,32 @@
+﻿G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\Example7_PostProcessing\spinblur_ps.hlsl(26,19-22): warning X3081: comma expression used where a vector constructor may have been intended
+G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\Example7_PostProcessing\spinblur_ps.hlsl(26,19-25): warning X3081: comma expression used where a vector constructor may have been intended
+G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\Example7_PostProcessing\spinblur_ps.hlsl(26,19-28): warning X3081: comma expression used where a vector constructor may have been intended
+G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\Example7_PostProcessing\spinblur_ps.hlsl(27,25-28): warning X3081: comma expression used where a vector constructor may have been intended
+  
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\spinblur_ps.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\spinblur_vs.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\texture_ps.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\texture_vs.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\toon_ps.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\toon_vs.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\verticalBlur_ps.cso
+  compilation object save succeeded; see G:\Uni\Year 3\Graphics Programming With Shaders\Example7_PostProcessing\x64\Debug\verticalBlur_vs.cso
+  VerticalBlurShader.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\verticalblurshader.h(6): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  ToonShader.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\toonshader.h(2): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  TextureShader.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\textureshader.h(3): fatal error C1083: Cannot open include file: 'BaseShader.h': No such file or directory
+  SpinBlur.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\spinblur.h(3): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  Main.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\main.cpp(2): fatal error C1083: Cannot open include file: 'System.h': No such file or directory
+  LightShader.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\lightshader.h(3): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  HorizontalBlurShader.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\horizontalblurshader.h(6): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  EdgeDetector.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\edgedetector.h(2): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  App1.cpp
+g:\uni\year 3\graphics programming with shaders\example7_postprocessing\example7_postprocessing\app1.h(6): fatal error C1083: Cannot open include file: 'DXF.h': No such file or directory
+  Generating Code...
